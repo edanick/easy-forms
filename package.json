@@ -1,14 +1,15 @@
 {
-  "name": "easy-forms",
+  "name": "e-easy-forms",
   "version": "0.0.3",
   "description": "A package to write shorter forms and make it easier to use forms",
   "main": "index.jsx",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "homepage": "https://github.com/edanick/easy-forms/",
   "repository": {
     "type": "git",
-    "url": "edanik@easy-forms"
+    "url": "https://github.com/edanick/easy-forms.git"
   },
   "keywords": [
     "react",
