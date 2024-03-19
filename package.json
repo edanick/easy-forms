@@ -1,0 +1,22 @@
+{
+  "name": "easy-forms",
+  "version": "0.0.3",
+  "description": "A package to write shorter forms and make it easier to use forms",
+  "main": "index.jsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "easy-forms"
+  },
+  "keywords": [
+    "react",
+    "component",
+    "components",
+    "form",
+    "forms"
+  ],
+  "author": "edanick",
+  "license": "ISC"
+}
